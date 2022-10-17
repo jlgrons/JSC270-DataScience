@@ -1,2 +1,2 @@
-# JSC270-DataScience
-Materials for JSC270: Data Science I at University of Toronto
+# JSC270.github.io
+JSC270 Course Website
